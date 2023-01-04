@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there! 👋
+My name is Konstantin, I'm a frontend developer on React.js
+But also I can write on backend node.js
+Above you can see some of my projects, more you can find here on my github
 
 <!--
 **tuanneli/tuanneli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
